@@ -1,1 +1,1 @@
-# Core backend modules
+# Core configuration module
